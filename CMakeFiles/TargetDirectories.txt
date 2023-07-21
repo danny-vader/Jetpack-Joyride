@@ -1,0 +1,9 @@
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/CMakeFiles/app.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/CMakeFiles/glad.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/CMakeFiles/edit_cache.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/CMakeFiles/rebuild_cache.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/gb2385/Desktop/IIIT-H/2-2/CG/Assignments/Ass_1/code/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
